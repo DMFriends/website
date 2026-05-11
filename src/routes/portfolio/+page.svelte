@@ -134,6 +134,35 @@
         <a href="https://github.com/DMFriends/madlibs" target="_blank" class="link">Source code</a>
       </div>
     </article>
+
+    <article class="card project">
+      <h3>Sequence</h3>
+      <p class="card-subtitle">
+        The objective of the game is to get a "sequence" of 4 pegs either vertically, horizontally, or diagonally. The first player to get 2 "sequences" wins the game! You can play more than 2 sequences if desired.
+      </p>
+      <ul class="pill-list">
+        <li>Java</li>
+        <li>JavaFX</li>
+        <li>Python</li>
+      </ul>
+      <div class="card-footer">
+        <a href="https://github.com/DMFriends/sequence" target="_blank" class="link">Source code</a>
+      </div>
+    </article>
+
+    <article class="card project">
+      <h3>Scrabble</h3>
+      <p class="card-subtitle">
+        A 2-4 player Scrabble game written in Java. Standard Scrabble rules apply.
+      </p>
+      <ul class="pill-list">
+        <li>Java</li>
+        <li>JavaFX</li>
+      </ul>
+      <div class="card-footer">
+        <a href="https://github.com/DMFriends/scrabble" target="_blank" class="link">Source code</a>
+      </div>
+    </article>
   </div>
 </section>
 
