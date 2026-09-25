@@ -1,12 +1,17 @@
 import { error } from '@sveltejs/kit';
 import type { RequestHandler } from './$types';
 
-const GOOGLE_DOC_ID = '1bhVwWsPEovf2HFZMU3aLZC3aPFxYEFkTHlsXKnVAU3c';
-const EXPORT_URL = `https://docs.google.com/document/d/${GOOGLE_DOC_ID}/export?format=pdf`;
+// const GOOGLE_DOC_ID = '1bhVwWsPEovf2HFZMU3aLZC3aPFxYEFkTHlsXKnVAU3c';
+// const EXPORT_URL = `https://docs.google.com/document/d/${GOOGLE_DOC_ID}/export?format=pdf`;
+
+const COOP_GOOGLE_DOC_ID = '1Ca8dTR7HMxEzobi6-eevGzIjSGTIVxej9Ozs3q_rMKk';
+const COOP_EXPORT_URL = `https://docs.google.com/document/d/${COOP_GOOGLE_DOC_ID}/export?format=pdf`;
+
 const DOWNLOAD_FILENAME = 'Daniel-Miretsky-Resume.pdf';
 
 export const GET: RequestHandler = async ({ fetch, setHeaders }) => {
-	const upstream = await fetch(EXPORT_URL);
+	//const upstream = await fetch(EXPORT_URL);
+	const upstream = await fetch(COOP_EXPORT_URL);
 
 	if (!upstream.ok || !upstream.body) {
 		throw error(502, 'Could not fetch resume from Google Docs');
