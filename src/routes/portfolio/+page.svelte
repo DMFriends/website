@@ -28,11 +28,14 @@
       <p class="card-subtitle">
         A popular Russian card game played with a 36-card deck (6-Ace). Players can either attack or defend.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/durak" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/durak" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -43,12 +46,15 @@
 
         JavaFX version was written in collaboration with <a href="https://github.com/Boris098" target="_blank" class="link">@Boris098</a>.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>JavaFX</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/wordle" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>JavaFX</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/wordle" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -57,14 +63,17 @@
       <p class="card-subtitle">
         A code-breaking game where you have to guess the code in 10 tries.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>C#</li>
-        <li>WinForms</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/mastermind" target="_blank" class="link">Java source code</a>
-        <a href="https://github.com/DMFriends/mastermind-gui" target="_blank" class="link">C# source code (WinForms)</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>C#</li>
+          <li>WinForms</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/mastermind" target="_blank" class="link">Java source code</a>
+          <a href="https://github.com/DMFriends/mastermind-gui" target="_blank" class="link">C# source code (WinForms)</a>
+        </div>
       </div>
     </article>
 
@@ -73,11 +82,14 @@
       <p class="card-subtitle">
         A naval battle game where you have to guess the location of the opponent's ships.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/battleship" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/battleship" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -87,13 +99,16 @@
         1. (JUno) Java-based Uno game for mine and <a href="https://github.com/Cattn" target="_blank" class="link">@Cattn</a>'s CS2 Project at Wentworth Institute of Technology.<br><br>
         2. (Uno-GUI) A JavaFX version of JUno (written in collaboration with <a href="https://github.com/Boris098" target="_blank" class="link">@Boris098</a>).<br>
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>JavaFX</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/Cattn/JUno" target="_blank" class="link">JUno source code</a>
-        <a href="https://github.com/DMFriends/uno-gui" target="_blank" class="link">Uno-GUI source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>JavaFX</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/Cattn/JUno" target="_blank" class="link">JUno source code</a>
+          <a href="https://github.com/DMFriends/uno-gui" target="_blank" class="link">Uno-GUI source code</a>
+        </div>
       </div>
     </article>
 
@@ -102,12 +117,14 @@
       <p class="card-subtitle">
         This website, built with SvelteKit and Tailwind CSS.
       </p>
-      <ul class="pill-list">
-        <li>SvelteKit</li>
-        <li>Tailwind CSS</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/portfolio-site" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>SvelteKit</li>
+          <li>Tailwind CSS</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/portfolio-site" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -116,14 +133,17 @@
       <p class="card-subtitle">
         A weather mobile app that uses the OpenWeatherMap API to get the weather for a given location.
       </p>
-      <ul class="pill-list">
-        <li>Svelte/SvelteKit</li>
-        <li>Vite</li>
-        <li>TypeScript</li>
-        <li>WeatherAPI</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/weather-app" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Svelte/SvelteKit</li>
+          <li>Vite</li>
+          <li>TypeScript</li>
+          <li>WeatherAPI</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/weather-app" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -134,12 +154,15 @@
 
         JavaFX version was written in collaboration with <a href="https://github.com/Boris098" target="_blank" class="link">@Boris098</a>.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>JavaFX</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/madlibs" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>JavaFX</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/madlibs" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -148,13 +171,16 @@
       <p class="card-subtitle">
         The objective of the game is to get a "sequence" of 4 pegs either vertically, horizontally, or diagonally. The first player to get 2 "sequences" wins the game! You can play more than 2 sequences if desired.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>JavaFX</li>
-        <li>Python</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/sequence" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>JavaFX</li>
+          <li>Python</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/sequence" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
 
@@ -163,12 +189,15 @@
       <p class="card-subtitle">
         A 2-4 player Scrabble game written in Java. Standard Scrabble rules apply.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-        <li>JavaFX</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/scrabble" target="_blank" class="link">Source code</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+          <li>JavaFX</li>
+          <li class="pill-list-completed">Completed</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/scrabble" target="_blank" class="link">Source code</a>
+        </div>
       </div>
     </article>
   </div>
@@ -188,11 +217,13 @@
       <p class="card-subtitle">
         My solutions to the 2025 Advent of Code puzzles.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2025" target="_blank" class="link">Solutions</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2025" target="_blank" class="link">Solutions</a>
+        </div>
       </div>
     </article>
 
@@ -201,11 +232,13 @@
       <p class="card-subtitle">
         My solutions to the 2023 Advent of Code puzzles.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2023" target="_blank" class="link">Solutions</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2023" target="_blank" class="link">Solutions</a>
+        </div>
       </div>
     </article>
 
@@ -214,11 +247,13 @@
       <p class="card-subtitle">
         My solutions to the 2022 Advent of Code puzzles.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2022" target="_blank" class="link">Solutions</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2022" target="_blank" class="link">Solutions</a>
+        </div>
       </div>
     </article>
 
@@ -227,11 +262,13 @@
       <p class="card-subtitle">
         My solutions to the 2021 Advent of Code puzzles.
       </p>
-      <ul class="pill-list">
-        <li>Java</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2021" target="_blank" class="link">Solutions</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Java</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://github.com/DMFriends/aoc/tree/main/src/main/java/_2021" target="_blank" class="link">Solutions</a>
+        </div>
       </div>
     </article>
   </div>
@@ -242,22 +279,57 @@
     <h2>My Open Source Contributions</h2>
   </div>
 
-  <div class="grid">
+  <div class="grid grid-two">
     <article class="card project">
       <h3>Sir Lancebot</h3>
       <p class="card-subtitle">
-        Over the past few years since the start of the COVID pandemic, I've contributed to an open source project, maintained by Python Discord, called Sir Lancebot, written in Python, as the name "Python Discord" suggests. It is a Discord bot hosted on the Python Discord server, the primary goal of which is to host fun games that can be played on the Discord server (both singleplayer and multiplayer), as well as some small utilities that members of the Discord server use for their convenience.
+        During the COVID pandemic, I contributed to an open source project, maintained by Python Discord,
+        called Sir Lancebot, written in Python, as the name "Python Discord" suggests.
+        It is a Discord bot hosted on the Python Discord server, the primary goal of which is to host
+        fun games that can be played on the Discord server (both singleplayer and multiplayer),
+        as well as some small utilities that members of the Discord server use for their convenience.
       </p>
-      <ul class="pill-list">
-        <li>Python</li>
-      </ul>
-      <div class="card-footer">
-        <a href="https://github.com/python-discord/sir-lancebot" target="_blank" class="link">Sir Lancebot Source Code</a>
-        <a href="https://discord.gg/python" target="_blank" class="link">Discord Server</a>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Python</li>
+          <li>Discord.py</li>
+          <li class="pill-list-inactive-contributor">Inactive Contributor</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://www.pythondiscord.com/" target="_blank" class="link">Website</a>
+          <a href="https://github.com/python-discord/sir-lancebot" target="_blank" class="link">Source Code</a>
+          <a href="https://discord.gg/python" target="_blank" class="link">Discord Server</a>
+          <a href="https://github.com/python-discord" target="_blank" class="link">PyDis GitHub</a>
+          <a href="https://github.com/python-discord/sir-lancebot/pulls?q=is%3Apr+is%3Amerged+author%3ADMFriends+" target="_blank" class="link">My Contributions</a>
+        </div>
       </div>
-      <div class="card-footer">
-        <a href="https://github.com/python-discord" target="_blank" class="link">PyDis GitHub Organization</a>
-        <a href="https://github.com/python-discord/sir-lancebot/pulls?q=is%3Apr+is%3Amerged+author%3ADMFriends+" target="_blank" class="link">My Contributions</a>
+    </article>
+
+    <article class="card project">
+      <h3>WIT-Calendar</h3>
+      <p class="card-subtitle">
+        WIT-Calendar is a tool that allows you to sync your class schedule from Wentworth Institute of Technology's registration
+        system to any calendar app, along with other features such as course registration planning help.
+        It is written in Svelte/SvelteKit for the frontend and Ruby on Rails for the backend.
+        <br><br>
+        Most of my contributions were to the frontend, but I also contributed to the backend.
+        As one of three core maintainers of the project, I helped steer the overall direction and
+        design of the project when I started it last year (September 2025),
+        and now I just maintain the project and contribute new features and bug fixes as needed.
+      </p>
+      <div class="card-bottom">
+        <ul class="pill-list">
+          <li>Svelte/SvelteKit</li>
+          <li>HTML/CSS</li>
+          <li>TypeScript</li>
+          <li>Ruby on Rails</li>
+          <li class="pill-list-active-contributor">Active Contributor</li>
+        </ul>
+        <div class="card-footer">
+          <a href="https://calendar.witcc.dev" target="_blank" class="link">Website</a>
+          <a href="https://github.com/WITCodingClub/calendar-extension" target="_blank" class="link">Frontend Source Code</a>
+          <a href="https://github.com/WITCodingClub/calendar-backend" target="_blank" class="link">Backend Source Code</a>
+        </div>
       </div>
     </article>
   </div>
@@ -275,6 +347,8 @@
       <li>HTML / CSS</li>
       <li>Git</li>
       <li>GitHub</li>
+      <li>Ruby on Rails</li>
+      <li>Discord.py</li>
     </ul>
   </div>
 </section>
@@ -368,6 +442,10 @@
     gap: 1.5rem;
   }
 
+  .grid-two {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .card {
     background: rgba(15, 23, 42, 0.9);
     border-radius: 1rem;
@@ -408,10 +486,31 @@
     background: rgba(15, 23, 42, 0.8);
   }
 
+  .pill-list li.pill-list-completed,
+  .pill-list li.pill-list-active-contributor {
+    border-color: rgba(34, 197, 94, 0.6);
+    color: #86efac;
+    background: rgba(22, 101, 52, 0.35);
+  }
+
+  .pill-list li.pill-list-inactive-contributor {
+    border-color: rgba(239, 68, 68, 0.6);
+    color: #fca5a5;
+    background: rgba(127, 29, 29, 0.35);
+  }
+
+  .card-bottom {
+    margin-top: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+
   .card-footer {
     margin-top: auto;
     display: flex;
-    gap: 1rem;
+    flex-wrap: wrap;
+    gap: 0.4rem 1rem;
     font-size: 0.85rem;
   }
 
@@ -419,6 +518,10 @@
     color: #38bdf8;
     text-decoration: none;
     position: relative;
+  }
+
+  .card-footer .link {
+    white-space: nowrap;
   }
 
   .link::after {
@@ -492,7 +595,8 @@
       padding-inline: 1.25rem;
     }
 
-    .grid {
+    .grid,
+    .grid-two {
       grid-template-columns: minmax(0, 1fr);
     }
   }
